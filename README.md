@@ -1,2 +1,2 @@
 # HTF
-The implementation and comparison of 'HTF' paper
+The implementation and experiments of 'HTF' paper
